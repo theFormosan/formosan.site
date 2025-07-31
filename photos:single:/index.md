@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: page
 title: 單圖作品
+permalink: /photos/single/
 ---
 
-這裡展示我們近期拍攝的單張攝影作品。  
-每張照片都附有簡要說明與拍攝背景。
+這裡是單圖作品的展示頁面，未來會顯示獨立攝影作品。
+
